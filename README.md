@@ -1,6 +1,6 @@
 # 🎮 Minecraft Mods Collection
 
-This repository contains a collection of Minecraft mods that I use. Follow the instructions below to set up these mods on your Minecraft installation.
+This repository contains a collection of Minecraft mods that I use to boost performance. Follow the instructions below to set up these mods on your Minecraft installation.
 
 ## 📦 Mods Included
 
